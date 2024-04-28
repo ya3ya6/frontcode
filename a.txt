@@ -1,0 +1,10 @@
+gh repo create frontcode --public
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ya3ya6/frontcode.git
+git push -u origin main
+
+
+
